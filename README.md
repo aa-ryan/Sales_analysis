@@ -5,6 +5,7 @@
 * [ ] Cleaning of Data
 	- Check for NAs
 	- Check for Duplicates
+	- Check for Outliers.
 	- Date format
 * [ ] Joining of tables, primary key as OrderID
 * [ ] Finding profit based on OrderID, States or other params.
