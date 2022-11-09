@@ -1,6 +1,7 @@
 # AbinBev_Assignment
 
 ### Task
+* Convert the data files to csv.
 * [ ] Cleaning of Data
 	- Check for NAs
 	- Check for Duplicates
