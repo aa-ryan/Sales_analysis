@@ -2,11 +2,11 @@
 
 ### Task
 * Convert the data files to csv.
-* [ ] Cleaning of Data
-	- [ ] Date format
-	- [ ] Check for NAs
-	- [ ] Check for Duplicates
-	- [ ] Check for Outliers.
+* [x] Cleaning of Data
+	- [x] Shape of Data
+	- [x] Check for NAs
+	- [x] Date format
+	- [x] Check Data Info
 * [ ] Joining of tables, primary key as OrderID
 * [ ] Finding profit based on OrderID, States or other params.
 * [ ] Profit over a period
