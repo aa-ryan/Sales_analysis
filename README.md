@@ -3,10 +3,10 @@
 ### Task
 * Convert the data files to csv.
 * [ ] Cleaning of Data
-	- Check for NAs
-	- Check for Duplicates
-	- Check for Outliers.
-	- Date format
+	- [ ] Date format
+	- [ ] Check for NAs
+	- [ ] Check for Duplicates
+	- [ ] Check for Outliers.
 * [ ] Joining of tables, primary key as OrderID
 * [ ] Finding profit based on OrderID, States or other params.
 * [ ] Profit over a period
