@@ -7,6 +7,8 @@
 	- [x] Check for NAs
 	- [x] Date format
 	- [x] Check Data Info
+	- [x] Check for Duplicate data
+	- [x] Check for Outliers
 * [x] Joining of tables, primary key as OrderID
 * [x] Finding profit based on OrderID, States or other params.
 * [x] Profit over a period (monthly)
